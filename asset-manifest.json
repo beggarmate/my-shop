@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/beggarmate/my-shop.git/static/css/main.365ab21c.css",
+    "main.js": "/beggarmate/my-shop.git/static/js/main.b5748e78.js",
+    "static/media/search-image.png": "/beggarmate/my-shop.git/static/media/search-image.ef7672968bf6820dd827.png",
+    "static/media/myshop-logo.png": "/beggarmate/my-shop.git/static/media/myshop-logo.68af6a3cf024e243e4f5.png",
+    "static/media/basket.png": "/beggarmate/my-shop.git/static/media/basket.91168ceece717ce0deba.png",
+    "index.html": "/beggarmate/my-shop.git/index.html",
+    "main.365ab21c.css.map": "/beggarmate/my-shop.git/static/css/main.365ab21c.css.map",
+    "main.b5748e78.js.map": "/beggarmate/my-shop.git/static/js/main.b5748e78.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.365ab21c.css",
+    "static/js/main.b5748e78.js"
+  ]
+}
